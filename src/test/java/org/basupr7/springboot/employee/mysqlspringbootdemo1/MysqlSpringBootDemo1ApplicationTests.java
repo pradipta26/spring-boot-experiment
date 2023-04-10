@@ -1,4 +1,4 @@
-package com.example.mysqlspringbootdemo1;
+package org.basupr7.springboot.employee.mysqlspringbootdemo1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
